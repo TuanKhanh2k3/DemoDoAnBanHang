@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+}
+.header{
+    font-size: 30px;
+    background-color: lightblue;
+    color: indianred;
+    height: 100px;
+    padding: 0;
+}
+.content{
+    background-color: lightblue;
+}
+.menu{
+    width: 20%;
+    float: left;
+    color: red;
+    background-color: lightblue;
+    padding: 0;
+    margin:auto;
+    height: auto;
+}
+.main-content{
+    background: lightblue;
+    float: right;
+    width: 80%;
+}
+.clear{
+    clear: both;
+}
+.footer{
+    font-size: 30px;
+    background-color: lightblue;
+    color: indianred;
+    height: auto;
+    padding: 0;
+}
+
